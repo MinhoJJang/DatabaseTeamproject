@@ -1,6 +1,19 @@
 # DatabaseTeamproject
 
-2022_secondSemester DB Team Project
+2022_secondSemester DB Team
+
+# 12/02 v3.0 update
+
+모든 페이지에 CSS 입히기 완료
+기능 오류 없음
+메인 페이지 로고와 사진 정도만 변경하면 완성될 듯 하다.
+
+# 11/23 \_ v2.0 update
+
+구현기능:
+
+상기 기능 모두 구현완료
+프론트쪽만 살짝 손보면 더 좋아질 것 같다
 
 # 11/21 \_ v1.0 update
 
@@ -29,10 +42,3 @@
 회원정보가져오기 selectM
 회원정보 변경 updateM
 -> 이 두개는 하나의 페이지에서 수행하면 될 것 같음
-
-# 11/23 \_ v2.0 update
-
-구현기능:
-
-상기 기능 모두 구현완료
-프론트쪽만 살짝 손보면 더 좋아질 것 같다
