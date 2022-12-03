@@ -2,6 +2,10 @@
 
 2022_secondSemester DB Team
 
+# 12/03 v3.1 update
+
+DAO 파일의 sql문에 주석 추가
+
 # 12/02 v3.0 update
 
 모든 페이지에 CSS 입히기 완료
